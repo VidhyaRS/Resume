@@ -1,0 +1,8 @@
+Experience of working with code repositories like GIT, P4V (or similar) and automation of configuration management tasks.
+Experience of continuous integration build systems (Jenkins, Hudson)
+Experience of using tools to integrate best practices like static code analysis, automated unit tests and integration tests, code coverage analyzers.
+Ability to automate and speed up build and release process.
+As well as automation using Perl and python.
+Good & Effective Communication Skills.
+Ability to work well in a team environment and independently while tackling complex problems.
+Ability to learn and work with cutting edge technologies and dealing with ambiguous problems.  
